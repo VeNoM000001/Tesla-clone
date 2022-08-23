@@ -1,0 +1,51 @@
+export default [
+  {
+    name: "Model 3",
+    image: "src/Images/model3.jpeg",
+    details: "Order Online for touchless delivery",
+    button_1_text: "custom order",
+    button_2_text: "Existing Inventory",
+  },
+  {
+    name: "Model Y",
+    image: "src/Images/modelY.jpeg",
+    details: "Order Online for touchless delivery",
+    button_1_text: "custom order",
+    button_2_text: "Existing Inventory",
+  },
+  {
+    name: "Model S",
+    image: "src/Images/modelS.jpeg",
+    details: "Order Online for touchless delivery",
+    button_1_text: "custom order",
+    button_2_text: "Existing Inventory",
+  },
+  {
+    name: "Model X",
+    image: "src/Images/modelX.jpeg",
+    details: "Order Online for touchless delivery",
+    button_1_text: "custom order",
+    button_2_text: "Existing Inventory",
+  },
+  {
+    name: "Solar Panals",
+    image: "src/Images/solarPanels.jpeg",
+    details: "Lowest cost solar panels in America",
+    button_1_text: "order now",
+    button_2_text: "Learn More",
+  },
+  {
+    name: "Solar Roof",
+    image: "src/Images/solarRoof.jpeg",
+    details: "Produce clean Energy from your roof",
+    button_1_text: "order now",
+    button_2_text: "Learn More",
+  },
+  {
+    name: "Accessories",
+    image: "src/Images/Accessories.jpeg",
+    details: "",
+    button_1_text: "shop now",
+    button_2_text: "",
+  },
+];

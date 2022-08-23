@@ -1,0 +1,31 @@
+header {
+  display: flex;
+  margin: 10px 0px 0px 0px;
+  align-items: center;
+  justify-content: center;
+  gap: 400px;
+  position: fixed;
+  padding-left: 25px;
+}
+.model_nav {
+  display: flex;
+  gap: 20px;
+  font-weight: bold;
+}
+nav a {
+  text-decoration: none;
+  color: black;
+}
+.menu {
+  margin: 10px;
+  text-align: center;
+  cursor: pointer;
+  background-color: transparent;
+  font-size: 1em;
+  border: none;
+  font-weight: bold;
+}
+.menu {
+  display: flex;
+  flex-direction: column;
+}
